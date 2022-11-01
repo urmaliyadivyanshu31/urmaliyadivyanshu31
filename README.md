@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @urmaliyadivyanshu31
-- 👀 I’m interested in Blockchain Technology
-- 🌱 I’m currently learning Javascript.
+- 👀 I’m interested in Blockchain Technology as well as in Web Development.
+- 🌱 I’m currently learning Solidity.
 - 💞️ I’m looking to collaborate on any Blockchain Projects
 - 📫 My Twitter Profile - @Divyanshueth
 
