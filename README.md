@@ -11,9 +11,9 @@
 
 - 💬 Ask me about **HTML, CSS and very own JavaScript**
 
-- 📫 How to reach me **urmaliyadiv04@gmail.com**
+- 📫 To reach me:- **urmaliyadiv04@gmail.com**
 
-- ⚡ Fun fact **Tea is much better than Coffee😉**
+- ⚡ **Tea is much better than Coffee😉**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
