@@ -1,5 +1,5 @@
 <h1 align="center">Hello Buidlers 👋, I'm Divyanshu Urmaliya</h1>
-<h3 align="center">A passionate frontend developer from Bhopal,India</h3>
+<h3 align="center">A passionate frontend and blockchain developer from Bhopal,India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=urmaliyadivyanshu31&label=Profile%20views&color=0e75b6&style=flat" alt="urmaliyadivyanshu31" /> </p>
 
