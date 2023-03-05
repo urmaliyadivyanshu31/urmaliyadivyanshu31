@@ -1,6 +1,9 @@
 <h1 align="center">Hello Buidlers 👋, I'm Divyanshu Urmaliya</h1>
 <h3 align="center">A passionate frontend and blockchain developer from Bhopal,India</h3>
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=urmaliyadivyanshu31&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+
 # 💫 About Me:
 🌱 I’m currently learning Solidity and React<br><br>📝 I regularly write articles on https://medium.com/@urmaliyadiv04<br><br>💬 Ask me about HTML, CSS and very own JavaScript<br><br>📫 How to reach me urmaliyadiv04@gmail.com<br><br>⚡ Fun fact Tea is much better than Coffee😉
 
