@@ -27,8 +27,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=urmaliyadivyanshu31&theme=radical&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=urmaliyadivyanshu31&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=urmaliyadivyanshu31&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+
 
 ## 🐦 Latest Tweet
 [![](https://gtce.itsvg.in/api?username=https://twitter.com/Divyanshueth)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
