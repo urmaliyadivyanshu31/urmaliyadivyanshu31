@@ -1,5 +1,5 @@
 <h1 align="center">Hello Buidlers 👋, I'm Divyanshu Urmaliya</h1>
-<h3 align="center">A passionate frontend and blockchain developer from Bhopal,India</h3>
+<h3 align="center">A passionate frontend and blockchain developer from Bhopal(M.P),India</h3>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=urmaliyadivyanshu31&theme=radical&no-frame=true&no-bg=false&margin-w=4)
