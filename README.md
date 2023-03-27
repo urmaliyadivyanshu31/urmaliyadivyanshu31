@@ -1,4 +1,4 @@
-<h1 align="center">Hello Buidlers 👋, I'm Divyanshu Urmaliya</h1>
+<h1 align="center">Hello Buidlers <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px height = 30px>, I'm Divyanshu Urmaliya</h1>
 <h3 align="center">A passionate frontend and blockchain developer from Bhopal(M.P),India</h3>
 
 
