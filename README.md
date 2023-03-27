@@ -9,6 +9,7 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=urmaliyadivyanshu31&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
+<p align="left"> <a href="https://twitter.com/urmaliyadivyanshu31" target="blank"><img src="https://img.shields.io/twitter/follow/aashryaa?logo=twitter&style=for-the-badge" alt="divyanshu" /></a></p>
 
 <div align=center>
   <h3><b>📍 Profile Visitor Count</b></h3>
@@ -21,9 +22,8 @@
 
 
 ## 🌐 Socials:
-<p align="left"> <a href="https://twitter.com/Divyanshueth" target="blank"><img src="https://img.shields.io/twitter/follow/aashryaa?logo=twitter&style=for-the-badge" alt="divyanshu" /></a> 
- <a href="https://medium.com/@https://medium.com/@urmaliyadiv04" target="blank"><img src="https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white" alt="divyanshu" /></a>
- <a href="https://linkedin.com/in/https://www.linkedin.com/in/divyanshu-urmaliya-b542ba21b/" target="blank"><img src="(https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="divyanshu" /></a> </p>
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Divyanshu#1966) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/urmaliyadivyanshu31) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Divyanshueth) 
+
 
 
 # 💻 Tech Stack:
