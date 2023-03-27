@@ -7,6 +7,8 @@
 # 💫 About Me:
 🌱 I’m currently learning Solidity and React<br><br>📝 I regularly write articles on https://medium.com/@urmaliyadiv04<br><br>💬 Ask me about HTML, CSS and very own JavaScript<br><br>📫 How to reach me urmaliyadiv04@gmail.com<br><br>⚡ Fun Fact - Satna is better than Rewa.
 
+<p align="left"> <a href="https://twitter.com/Divyanshueth" target="blank"><img src="https://img.shields.io/twitter/follow/aashryaa?logo=twitter&style=for-the-badge" alt="aashryaa" /></a> </p>
+
 <div align=center>
   <h3><b>📍 Profile Visitor Count</b></h3>
 </div>
