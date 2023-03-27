@@ -9,7 +9,7 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=urmaliyadivyanshu31&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
-<p align="left"> <a href="https://twitter.com/urmaliyadivyanshu31" target="blank"><img src="https://img.shields.io/twitter/follow/aashryaa?logo=twitter&style=for-the-badge" alt="divyanshu" /></a></p>
+<p align="left"> <a href="https://twitter.com/urmaliyadivyanshu31" target="blank"><img src="https://img.shields.io/twitter/follow/divyanshu?logo=twitter&style=for-the-badge" alt="divyanshu" /></a></p>
 
 <div align=center>
   <h3><b>📍 Profile Visitor Count</b></h3>
