@@ -1,7 +1,7 @@
 <h1 align="center">Hello Buidlers <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px height = 30px>, I'm Divyanshu Urmaliya</h1>
 <h3 align="center">A passionate frontend and blockchain developer from Bhopal(M.P),India</h3>
 
-<img src="https://github.com/ArshErgon/ArshErgon/blob/main/assets/header/lineBar.png" width="100%" height="8px"/>
+
 
 # 💫 About Me:
 🌱 I’m currently learning Solidity and React<br><br>📝 I regularly write articles on https://medium.com/@urmaliyadiv04<br><br>💬 Ask me about HTML, CSS and very own JavaScript<br><br>📫 How to reach me urmaliyadiv04@gmail.com<br><br>⚡ Fun Fact - Satna is better than Rewa.
