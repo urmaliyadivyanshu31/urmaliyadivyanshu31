@@ -56,6 +56,3 @@
 </div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-
-![snake gif](https://github.com/urmaliyadivyanshu31/urmaliyadivyanshu31/blob/output/github-contribution-grid-snake.svg)
