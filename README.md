@@ -1,4 +1,4 @@
-<h1 align="center">GM Builders, I'm Divyanshu Urmaliya</h1> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">
+<h1 align="center">GM Builders, I'm Divyanshu Urmaliya <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px"></h1>
 <h3 align="center">A Developer/Marketer, love to bring stuff onchain </h3>
 
 <img src="https://github.com/ArshErgon/ArshErgon/blob/main/assets/header/lineBar.png" width="100%" height="8px"/>
