@@ -1,62 +1,156 @@
-<h1 align="center">GM Builders, I'm Divyanshu Urmaliya <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px"></h1>
-<h3 align="center"><b><i>A Developer/Marketer, love to bring stuff onchain!!</i></b> </h3>
+# Divyanshu Urmaliya
 
-<img src="https://github.com/ArshErgon/ArshErgon/blob/main/assets/header/lineBar.png" width="100%" height="8px"/>
+**Web3 Growth Architect** • **Community Builder** • **AI Agent Developer**
 
-## 💫 About Me:
+*Scaling Web3 ecosystems from 0 to millions • Building the future of decentralized communities*
 
-<img align="right" alt="Coder GIF" height="200" width="300" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+---
 
-🌱 I’m currently learning to be terminally online<br><br>
-📝 I don't write articles on [Medium](https://medium.com/@urmaliyadiv04)<br><br>
-💬 Ask me about which chain gonna get REKT<br><br>
-📫 How to reach me: urmaliyadiv04@gmail.com<br><br>
-⚡ Fun Fact: Superteam is run by Sam from secret cell
+## Current Focus
 
+🏗️ **Head of Operations** at [Aarambh Labs](https://github.com/urmaliyadivyanshu31) — Scaling Titan Technologies (30M+ TVL)  
+🌐 **Co-Founder** of [Bhopal DAO](https://github.com/urmaliyadivyanshu31) — Central India's premier Web3 hub (2K+ members)  
+🤖 **Building** AI agents for Web3 automation and cross-chain interoperability  
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=urmaliyadivyanshu31&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+---
 
-<p align="left"> <a href="https://twitter.com/urmaliyadivyanshu31" target="blank"><img src="https://img.shields.io/twitter/follow/divyanshu?logo=twitter&style=for-the-badge" alt="divyanshu" /></a></p>
+## Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### [BackersStage](https://github.com/urmaliyadivyanshu31)
+**Premier Web3 Startup Ecosystem**
+```typescript
+Tech: Next.js 14, Framer Motion, Tailwind
+Status: ✅ Live Production
+```
+Connecting Web3 startups with investors. Coordinated TOKEN2049 Dubai & ETHCC'25.
+
+</td>
+<td width="50%">
+
+### [DASHH](https://github.com/urmaliyadivyanshu31)
+**Decentralized Ad Platform**
+```solidity
+Tech: Solana, Reclaim Protocol, zkTLS, React
+Status: ✅ Live Production
+```
+Fighting ad fraud with zkTLS proofs. Genuine engagement, transparent rewards.
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### [Buck Terminal](https://github.com/urmaliyadivyanshu31)
+**Onchain AI Agent**
+```javascript
+Tech: GOAT SDK, NLP, Smart Contracts, SEI
+Status: 🚧 In Development
+```
+Natural language ERC20 token creation with real-time market analytics.
+
+</td>
+<td width="50%">
+
+### [Flow Beats](https://github.com/urmaliyadivyanshu31)
+**Multi-Gaming P2E Platform**
+```cadence
+Tech: Flow Blockchain, Niftory API, React
+Status: ⭐ Community Favorite
+```
+Ultimate gaming platform with integrated P2E and NFT rewards system.
+
+</td>
+</tr>
+</table>
+
+---
+
+## Impact & Achievements
+
+- 🚀 **30M+ TVL** — Scaled Web3 asset management operations
+- 👥 **2K+ Community** — Grew Bhopal DAO from 0 to Central India's Web3 hub
+- ⚡ **60%+ Productivity** — Boosted team efficiency with AI-driven automation
+- 🎯 **50+ Initiatives** — Led blockchain projects, hackathons, and partnerships
+- 🌍 **8+ Major Events** — Organized international conferences with $50K+ prizes
+
+---
+
+## Tech Arsenal
+
+```mermaid
+graph TD
+    A[Web3 Development] --> B[Solana/Ethereum]
+    A --> C[Smart Contracts]
+    A --> D[zkTLS & Reclaim Protocol]
+    
+    E[AI & Automation] --> F[AI Agent Development]
+    E --> G[GOAT SDK]
+    E --> H[NLP Integration]
+    
+    I[Frontend Excellence] --> J[Next.js 14]
+    I --> K[React Ecosystem]
+    I --> L[Framer Motion]
+    
+    M[Cross-Chain] --> N[Flow Blockchain]
+    M --> O[Interoperability Protocols]
+    M --> P[Multi-chain Architecture]
+```
+
+**Languages & Frameworks:**  
+`Solidity` `TypeScript` `JavaScript` `Cadence` `Python` `Next.js` `React` `Node.js` `FastAPI`
+
+**Web3 & Blockchain:**  
+`Ethereum` `Solana` `Flow` `Smart Contracts` `zkTLS` `Reclaim Protocol` `GOAT SDK` `Cross-chain`
+
+**Tools & Platforms:**  
+`Vercel` `Firebase` `Niftory API` `Framer Motion` `TailwindCSS` `Prisma` `PostgreSQL`
+
+---
+
+## Recognition & Partnerships
 
 <div align="center">
-  <h3><b>📍 Profile Visitor Count</b></h3>
+
+| **Ecosystem Partners** | **Event Partnerships** | **Research Collective** |
+|:---:|:---:|:---:|
+| Ethereum Foundation | TOKEN2049 Dubai | Axelar Network |
+| Push Protocol | ETHCC'25 | 50+ Researchers |
+| AirDAO | 8+ International Events | Cross-chain DeFi |
+| Berachain | 500+ Developers | Developer Tooling |
+
 </div>
-    
-<!-- retro visitor counter -->  
-<p align="center" >   
-  <img src="https://profile-counter.glitch.me/urmaliyadivyanshu31/count.svg" />  
-</p>
-
-
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Divyanshu#1966) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/urmaliyadivyanshu31) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Divyanshueth) 
-
-
-
-## 💻 Tech Stack:
-![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
 ---
 
-## 💻 Tech Card:
- 
- <a href="https://app.daily.dev/divyanshueth"><img src="https://api.daily.dev/devcards/v2/3rzU9aSu3719VDm3l9Njo.png?r=bal&type=default" width="356" alt="Divyanshu Urmaliya's Dev Card"/></a>
+## Let's Build Together
+
+<div align="center">
+
+[![Website](https://img.shields.io/badge/🌐_Portfolio-0xdiv.me-000?style=for-the-badge)](https://0xdiv.me)
+[![Email](https://img.shields.io/badge/📧_Email-urmaliyadiv04@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:urmaliyadiv04@gmail.com)
+[![Twitter](https://img.shields.io/badge/🐦_Twitter-@divyanshueth-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/divyanshueth)
+[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Divyanshu_Urmaliya-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/urmaliyadivyanshu)
+
+</div>
 
 ---
 
-<h2>📊 GitHub Stats:</h2>
-<table style="border-collapse: collapse; border: none;">
-  <tr style="border: none;">
-    <td style="border: none;">
-      <img src="https://github-readme-stats.vercel.app/api?username=urmaliyadivyanshu31&theme=radical&hide_border=true&include_all_commits=true&count_private=true" style="width: 100%; max-width: 400px; margin-right: 10px; margin-bottom: 10px;" />
-    </td>
-    <td style="border: none;">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=urmaliyadivyanshu31&theme=radical&hide_border=true" style="width: 100%; max-width: 400px; margin-left: 10px; margin-bottom: 10px;" />
-    </td>
-  </tr>
-</table>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=urmaliyadivyanshu31&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="250" width="400" />
+<div align="center">
+
+### *"Building the infrastructure for Web3's next billion users"*
+
+**Open to collaborations • Always learning • Forever building**
+
+<img src="https://komarev.com/ghpvc/?username=urmaliyadivyanshu31&style=flat-square&color=blue" alt="Profile Views"/>
+
 </div>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!--
+This README is a living document. 
+Continuously updated as I ship new projects and scale Web3 ecosystems.
+Last updated: January 2025
+-->
