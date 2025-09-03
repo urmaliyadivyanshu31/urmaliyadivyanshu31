@@ -1,70 +1,117 @@
-<h2 align="left">Hi 👋! My name is Divyanshu and I'm a Web3 Growth Architect, from India</h2>
+# Divyanshu Urmaliya
 
-###
+**Web3 Growth Architect** | **Head of Operations @ Aarambh Labs** | **Co-Founder @ Bhopal DAO**
+
+<img align="right" alt="Developer" width="300" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+
+## Current Focus
+
+**Head of Operations** at Aarambh Labs  
+Scaling Web3 asset management operations with AI-driven automation  
+60% productivity boost across all operational workflows
+
+**Co-Founder** at Bhopal DAO  
+Built Central India's largest Web3 community (2K+ active builders)  
+50+ blockchain initiatives, partnerships with Ethereum Foundation, Push Protocol
+
+**Research** at Axelar Network  
+Cross-chain interoperability research with 50+ researchers  
+Simultaneous management of 12+ DeFi protocols and developer tooling
+
+<br clear="right"/>
+
+---
+
+## Selected Projects
+
+**[BackersStage](https://backerstage.com)** — Premier Web3 startup ecosystem  
+Next.js 14, Framer Motion, strategic event coordination (TOKEN2049 Dubai, ETHCC'25)  
+Connecting Web3 startups with institutional investors
+
+**[DASHH](https://dashh.xyz)** — Decentralized advertising platform  
+Solana, Reclaim Protocol, zkTLS integration  
+Eliminating ad fraud through verifiable engagement proofs
+
+**[Buck Terminal](https://github.com/urmaliyadivyanshu31)** — Onchain AI agent  
+GOAT SDK, NLP, Smart Contracts on SEI  
+Natural language ERC20 token creation with real-time analytics
+
+**[Flow Beats](https://github.com/urmaliyadivyanshu31)** — Multi-gaming P2E platform  
+Flow Blockchain, Niftory API integration  
+Seamless social login with integrated NFT rewards system
+
+---
+
+## Key Achievements
+
+| Metric | Achievement | Context |
+|--------|-------------|---------|
+| **TVL Scaled** | 30M+ → 100M+ | Web3 asset management operations |
+| **Community** | 2K+ builders | Bhopal DAO growth (0 to Central India hub) |
+| **Productivity** | 60% increase | AI-driven operational automation |
+| **Events** | 8+ international | $50K+ in prizes, 500+ developer participants |
+| **Research** | 50+ researchers | Cross-chain DeFi and developer tooling |
+| **Partnerships** | 4 major ecosystems | Ethereum, Solana, Flow, SEI strategic alliances |
+
+---
+
+## Technology Stack
+
+**Languages**  
+`Solidity` `TypeScript` `JavaScript` `Python` `Cadence`
+
+**Frontend**  
+`Next.js 14` `React` `TailwindCSS` `Framer Motion`
+
+**Web3 & Blockchain**  
+`Ethereum` `Solana` `Flow` `Smart Contracts` `zkTLS` `Reclaim Protocol` `GOAT SDK`
+
+**Backend & Infrastructure**  
+`Node.js` `Express.js` `FastAPI` `Prisma` `PostgreSQL`
+
+**Cloud & Deployment**  
+`Vercel` `Firebase` `Azure`
+
+---
+
+## Strategic Partnerships
+
+**Ethereum Foundation** — Ecosystem development and research initiatives  
+**Push Protocol** — Strategic alliance for decentralized communication  
+**AirDAO** — Partnership for cross-chain infrastructure  
+**Berachain** — Ecosystem development and validator operations
+
+**Major Event Partnerships:** TOKEN2049 Dubai, ETHCC'25, 8+ international blockchain conferences
+
+---
+
+## GitHub Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=urmaliyadivyanshu31&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=urmaliyadivyanshu31&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=urmaliyadivyanshu31&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=urmaliyadivyanshu31&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
 </div>
 
-###
+---
 
-<img align="right" height="150" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"  />
+## Contact & Collaboration
 
-###
+**Portfolio:** [0xdiv.me](https://0xdiv.me)  
+**Email:** urmaliyadiv04@gmail.com  
+**Twitter:** [@divyanshueth](https://twitter.com/divyanshueth)  
+**LinkedIn:** [urmaliyadivyanshu](https://linkedin.com/in/urmaliyadivyanshu)
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" height="30" alt="solidity logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
-</div>
+Available for Web3 collaborations, strategic partnerships, and ecosystem development opportunities.
 
-###
-
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Portfolio&logo=ethereum&label=&color=3C3C3D&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="portfolio logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-</div>
-
-###
-
-<br clear="both">
+---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=urmaliyadivyanshu31&style=for-the-badge&color=blueviolet" alt="profile views" />
+
+![Profile Views](https://komarev.com/ghpvc/?username=urmaliyadivyanshu31&style=flat-square&color=blue)
+
+*Building infrastructure for Web3's next billion users*
+
 </div>
-
-###
-
-**Currently:**
-- Head of Operations @ Aarambh Labs (Scaling 30M+ → 100M+ TVL)
-- Co-Founder @ Bhopal DAO (2K+ Web3 builders)
-- Research @ Axelar Network (Cross-chain protocols)
-
-**Built:**
-- BackersStage — Web3 startup ecosystem (TOKEN2049, ETHCC'25)
-- DASHH — Anti-fraud ads with zkTLS on Solana
-- Buck Terminal — AI agent for token creation
-- Flow Beats — P2E gaming platform
-
-**Impact:**
-- 30M+ TVL scaled in Web3 asset management
-- 2K+ community grown from zero
-- 60% productivity boost through AI automation
-- 8+ international blockchain conferences
-- Partnerships: Ethereum Foundation, Push Protocol, AirDAO, Berachain
-
-###
