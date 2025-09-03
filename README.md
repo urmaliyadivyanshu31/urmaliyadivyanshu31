@@ -1,10 +1,11 @@
-# Divyanshu Urmaliya
+<h1 align="center">Hi 👋, I'm Divyanshu</h1>
+<h3 align="center">Web3 Growth Architect | Head of Operations @ Aarambh Labs | Co-Founder @ Bhopal DAO</h3>
 
-**Web3 Growth Architect** | **Head of Operations @ Aarambh Labs** | **Co-Founder @ Bhopal DAO**
+<p align="center">Currently scaling Titan Technologies from 30M+ to 100M+ TVL while building Central India's premier Web3 ecosystem.</p>
 
 <img align="right" alt="Developer" width="300" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
-## Current Focus
+### Current Focus
 
 **Head of Operations** at Aarambh Labs  
 Scaling Web3 asset management operations with AI-driven automation  
@@ -22,7 +23,11 @@ Simultaneous management of 12+ DeFi protocols and developer tooling
 
 ---
 
-## Selected Projects
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=urmaliyadivyanshu31&theme=discord&no-frame=true&margin-w=4" alt="urmaliyadivyanshu31" /></a> </p>
+
+---
+
+### Selected Projects
 
 **[BackersStage](https://backerstage.com)** — Premier Web3 startup ecosystem  
 Next.js 14, Framer Motion, strategic event coordination (TOKEN2049 Dubai, ETHCC'25)  
@@ -42,7 +47,7 @@ Seamless social login with integrated NFT rewards system
 
 ---
 
-## Key Achievements
+### Key Achievements
 
 | Metric | Achievement | Context |
 |--------|-------------|---------|
@@ -55,26 +60,24 @@ Seamless social login with integrated NFT rewards system
 
 ---
 
-## Technology Stack
-
-**Languages**  
-`Solidity` `TypeScript` `JavaScript` `Python` `Cadence`
-
-**Frontend**  
-`Next.js 14` `React` `TailwindCSS` `Framer Motion`
-
-**Web3 & Blockchain**  
-`Ethereum` `Solana` `Flow` `Smart Contracts` `zkTLS` `Reclaim Protocol` `GOAT SDK`
-
-**Backend & Infrastructure**  
-`Node.js` `Express.js` `FastAPI` `Prisma` `PostgreSQL`
-
-**Cloud & Deployment**  
-`Vercel` `Firebase` `Azure`
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> 
+<a href="https://soliditylang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/solidity/solidity-original.svg" alt="solidity" width="40" height="40"/> </a>
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
+<a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
+<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
+<a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
+<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
+<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
+</p>
 
 ---
 
-## Strategic Partnerships
+### Strategic Partnerships
 
 **Ethereum Foundation** — Ecosystem development and research initiatives  
 **Push Protocol** — Strategic alliance for decentralized communication  
@@ -85,33 +88,38 @@ Seamless social login with integrated NFT rewards system
 
 ---
 
-## GitHub Activity
+<p align="left"> <a href="https://twitter.com/divyanshueth" target="blank"><img src="https://img.shields.io/twitter/follow/divyanshueth?logo=twitter&style=for-the-badge" alt="divyanshueth" /></a> </p>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/divyanshueth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="divyanshueth" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/divyanshu-urmaliya-b542ba21b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="divyanshu-urmaliya-b542ba21b" height="30" width="40" /></a>
+<a href="https://0xdiv.me" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="portfolio" height="30" width="40" /></a>
+</p>
+
+---
+
+## GitHub Stats
 
 <div align="center">
+<table>
+<tr>
+<td><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=urmaliyadivyanshu31&show_icons=true&locale=en&layout=compact&theme=dark&hide_border=true" alt="urmaliyadivyanshu31" /></td>
+<td><img align="center" src="https://github-readme-stats.vercel.app/api?username=urmaliyadivyanshu31&show_icons=true&locale=en&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="urmaliyadivyanshu31" /></td>
+</tr>
+</table>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=urmaliyadivyanshu31&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=urmaliyadivyanshu31&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=urmaliyadivyanshu31&theme=dark&hide_border=true" alt="urmaliyadivyanshu31" />
 </div>
 
 ---
 
-## Contact & Collaboration
-
-**Portfolio:** [0xdiv.me](https://0xdiv.me)  
-**Email:** urmaliyadiv04@gmail.com  
-**Twitter:** [@divyanshueth](https://twitter.com/divyanshueth)  
-**LinkedIn:** [urmaliyadivyanshu](https://linkedin.com/in/urmaliyadivyanshu)
-
-Available for Web3 collaborations, strategic partnerships, and ecosystem development opportunities.
-
----
-
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=urmaliyadivyanshu31&style=flat-square&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=urmaliyadivyanshu31&style=for-the-badge&color=blueviolet)
 
-*Building infrastructure for Web3's next billion users*
+**Building infrastructure for Web3's next billion users**
+
+Available for Web3 collaborations, strategic partnerships, and ecosystem development opportunities.
 
 </div>
