@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Divyanshu</h1>
 <h3 align="center">Web3 Growth Architect | Head of Operations @ Aarambh Labs | Co-Founder @ Bhopal DAO</h3>
 
-<p align="center">Currently scaling Titan Technologies from 30M+ to 100M+ TVL while building Central India's premier Web3 ecosystem.</p>
-
 <img align="right" alt="Developer" width="300" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
 ### Current Focus
 
-**Head of Operations** at Aarambh Labs  
+**Prev. Head of Operations** at Aarambh Labs  
 Scaling Web3 asset management operations with AI-driven automation  
 60% productivity boost across all operational workflows
 
@@ -15,7 +13,7 @@ Scaling Web3 asset management operations with AI-driven automation
 Built Central India's largest Web3 community (2K+ active builders)  
 50+ blockchain initiatives, partnerships with Ethereum Foundation, Push Protocol
 
-**Research** at Axelar Network  
+**Prev. Research Collective Member** at Axelar Network  
 Cross-chain interoperability research with 50+ researchers  
 Simultaneous management of 12+ DeFi protocols and developer tooling
 
