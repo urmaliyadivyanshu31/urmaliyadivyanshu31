@@ -6,9 +6,6 @@
 
 Web3 Growth Architect at Aarambh Labs  
 Co-Founder of Bhopal DAO  
-
-Scaling Titan Technologies from 30M to 100M TVL. Built Central India's largest Web3 community.
-
 ---
 
 ### What I do
