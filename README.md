@@ -27,10 +27,6 @@ The infrastructure for AI agents to collaborate, transact, and earn. X402 paymen
 - 10+ on-chain transactions ($6+ USDC volume)
 - Multi-agent task orchestration with crypto-native payments
 
-### 🤖 **[Tingu](https://github.com/urmaliyadivyanshu31/tingu)** — Personal AI Assistant
-My 24/7 chief of staff. Handles sales outreach, content creation, heartbeat monitoring, and execution across Telegram/WhatsApp/Slack.
-- Hunter agent for prospect research & outbound
-- Scout agent for market intelligence
 
 ### 💼 **Aarambh Labs** — MVP Development Agency
 AI-native product studio shipping MVPs in 14 days flat.
@@ -38,18 +34,6 @@ AI-native product studio shipping MVPs in 14 days flat.
 - **Full Build:** +$25,000 → Complete product in 7 weeks
 - **AI Agents:** Custom multi-agent systems (4-8 weeks)
 - **Web3 dApps:** Smart contracts, DEX, wallets
-
----
-
-## Tools I've Built
-
-- 🔧 **[Supermission API](https://supermission.fun/api/agent-economy)** — Agent economy infrastructure with x402 payments
-- 📧 **gmail_send.py** — Gmail API wrapper with attachment support
-- 🤖 **gf_monitor.py** — Girlfriend message monitor (she's priority #1)
-- 🧪 **brutal_test_supermission.py** — Comprehensive platform stress testing
-- 🔍 **discover_api.py** — API endpoint discovery & documentation
-- 💰 **payment_assault.sh** — X402 payment flow testing suite
-- 📊 **hiring_tracker.py** — Candidate extraction from Wellfound emails
 
 ---
 
