@@ -1,123 +1,269 @@
-<h1 align="center">Hi 👋, I'm Divyanshu</h1>
-<h3 align="center">Web3 Growth Architect | Head of Operations @ Aarambh Labs | Co-Founder @ Bhopal DAO</h3>
+# Hi, I'm Divyansh 👋
 
-<img align="right" alt="Developer" width="300" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+📍 **Indore, India** | 🚀 **Founder @ Aarambh Labs** | 🤖 **AI-Native Builder**
 
-### Current Focus
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Tailwind](https://img.shields.io/badge/-Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Postgres](https://img.shields.io/badge/-Postgres-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Claude](https://img.shields.io/badge/-Claude-CC785C?style=flat-square&logo=anthropic&logoColor=white)
+![Solidity](https://img.shields.io/badge/-Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
+![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
-**Prev. Head of Operations** at Aarambh Labs  
-Scaling Web3 asset management operations with AI-driven automation  
-60% productivity boost across all operational workflows
+> **"14 DAYS / FULL OWNERSHIP / ZERO BULLSHIT"**
 
-**Co-Founder** at Bhopal DAO  
-Built Central India's largest Web3 community (2K+ active builders)  
-50+ blockchain initiatives, partnerships with Ethereum Foundation, Push Protocol
+Deep in the agentic engineering trenches — shipping production-ready MVPs, AI agents, and Web3 dApps at ludicrous speed. After 100+ shipped MVPs, I've learned that shipped beats perfect every time.
 
-**Prev. Research Collective Member** at Axelar Network  
-Cross-chain interoperability research with 50+ researchers  
-Simultaneous management of 12+ DeFi protocols and developer tooling
-
-<br clear="right"/>
-
----
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=urmaliyadivyanshu31&theme=discord&no-frame=true&margin-w=4" alt="urmaliyadivyanshu31" /></a> </p>
+🚀 **[aarambhlabs.tech](https://aarambhlabs.tech)** — AI-Native MVP Factory
 
 ---
 
-### Selected Projects
+## Current Projects
 
-**[BackersStage](https://backerstage.com)** — Premier Web3 startup ecosystem  
-Next.js 14, Framer Motion, strategic event coordination (TOKEN2049 Dubai, ETHCC'25)  
-Connecting Web3 startups with institutional investors
+### 🦸 **[Supermission](https://supermission.fun)** — Agent Economy Platform
+The infrastructure for AI agents to collaborate, transact, and earn. X402 payments, ERC-8004 identity, on-chain settlements.
+- 119+ registered agents
+- 10+ on-chain transactions ($6+ USDC volume)
+- Multi-agent task orchestration with crypto-native payments
 
-**[DASHH](https://dashh.xyz)** — Decentralized advertising platform  
-Solana, Reclaim Protocol, zkTLS integration  
-Eliminating ad fraud through verifiable engagement proofs
+### 🤖 **[Tingu](https://github.com/urmaliyadivyanshu31/tingu)** — Personal AI Assistant
+My 24/7 chief of staff. Handles sales outreach, content creation, heartbeat monitoring, and execution across Telegram/WhatsApp/Slack.
+- Automated girlfriend notifications (priority #1 💕)
+- Hunter agent for prospect research & outbound
+- Scout agent for market intelligence
 
-**[Buck Terminal](https://github.com/urmaliyadivyanshu31)** — Onchain AI agent  
-GOAT SDK, NLP, Smart Contracts on SEI  
-Natural language ERC20 token creation with real-time analytics
-
-**[Flow Beats](https://github.com/urmaliyadivyanshu31)** — Multi-gaming P2E platform  
-Flow Blockchain, Niftory API integration  
-Seamless social login with integrated NFT rewards system
-
----
-
-### Key Achievements
-
-| Metric | Achievement | Context |
-|--------|-------------|---------|
-| **TVL Scaled** | 30M+ → 100M+ | Web3 asset management operations |
-| **Community** | 2K+ builders | Bhopal DAO growth (0 to Central India hub) |
-| **Productivity** | 60% increase | AI-driven operational automation |
-| **Events** | 8+ international | $50K+ in prizes, 500+ developer participants |
-| **Research** | 50+ researchers | Cross-chain DeFi and developer tooling |
-| **Partnerships** | 4 major ecosystems | Ethereum, Solana, Flow, SEI strategic alliances |
+### 💼 **Aarambh Labs** — MVP Development Agency
+AI-native product studio shipping MVPs in 14 days flat.
+- **MVP Sprint:** $5,000 → Working product in 14 days
+- **Full Build:** +$25,000 → Complete product in 7 weeks
+- **AI Agents:** Custom multi-agent systems (4-8 weeks)
+- **Web3 dApps:** Smart contracts, DEX, wallets
 
 ---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-<a href="https://soliditylang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/solidity/solidity-original.svg" alt="solidity" width="40" height="40"/> </a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-<a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-<a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
-<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
-</p>
+## Tools I've Built
+
+- 🔧 **[Supermission API](https://supermission.fun/api/agent-economy)** — Agent economy infrastructure with x402 payments
+- 📧 **gmail_send.py** — Gmail API wrapper with attachment support
+- 🤖 **gf_monitor.py** — Girlfriend message monitor (she's priority #1)
+- 🧪 **brutal_test_supermission.py** — Comprehensive platform stress testing
+- 🔍 **discover_api.py** — API endpoint discovery & documentation
+- 💰 **payment_assault.sh** — X402 payment flow testing suite
+- 📊 **hiring_tracker.py** — Candidate extraction from Wellfound emails
 
 ---
 
-### Strategic Partnerships
+## Content Creation
 
-**Ethereum Foundation** — Ecosystem development and research initiatives  
-**Push Protocol** — Strategic alliance for decentralized communication  
-**AirDAO** — Partnership for cross-chain infrastructure  
-**Berachain** — Ecosystem development and validator operations
+🎬 **Viral Scripts** — Research-backed, no-hallucination content for Instagram Reels & X
+- Hinglish (Hindi-English) scripts for Indian audience
+- SB7 StoryBrand Framework storytelling
+- Finance, Tech, Motivation, Entertainment verticals
 
-**Major Event Partnerships:** TOKEN2049 Dubai, ETHCC'25, 8+ international blockchain conferences
+📈 **100+ MVPs Shipped** — From ideation to production in record time
 
 ---
 
-<p align="left"> <a href="https://twitter.com/divyanshueth" target="blank"><img src="https://img.shields.io/twitter/follow/divyanshueth?logo=twitter&style=for-the-badge" alt="divyanshueth" /></a> </p>
+## Tech Stack
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/divyanshueth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="divyanshueth" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/divyanshu-urmaliya-b542ba21b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="divyanshu-urmaliya-b542ba21b" height="30" width="40" /></a>
-<a href="https://0xdiv.me" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="portfolio" height="30" width="40" /></a>
-</p>
+| Layer | Stack |
+|-------|-------|
+| **Frontend** | Next.js 15, React, Tailwind CSS, Framer Motion |
+| **Backend** | Node.js, Postgres, Redis, Vercel |
+| **AI/ML** | GPT-4, Claude, LangChain, Pinecone, FAISS |
+| **Web3** | Rust, Solidity, Base, Ethereum |
+| **Design** | Figma, Framer, After Effects, Rive |
+| **DevOps** | PM2, Hostinger VPS, GitHub Actions |
+
+---
+
+## GitHub Activity
+
+![GitHub Contribution Graph](https://ghchart.rshah.org/urmaliyadivyanshu31)
+
+---
+
+## What I'm Doing
+
+- **Living in the future** — Building with AI agents as first-class team members
+- **Shipping at speed** — Full MVPs in days, not months
+- **Agentic engineering** — Multi-agent systems that actually work
+- **Web3 experiments** — On-chain identity, payments, coordination
+
+---
+
+## Philosophy
+
+> "Ship beats perfect. Code ownership beats vendor lock-in. 14 days beats 3 months."
+
+I build tools to solve real problems, then ship them fast. Currently exploring how AI agents change everything about software development and business operations.
+
+---
+
+## Connect
+
+[![Twitter/X](https://img.shields.io/badge/-@0xdiv-000000?style=flat-square&logo=x&logoColor=white)](https://twitter.com/0xdiv)
+[![LinkedIn](https://img.shields.io/badge/-Divyansh_Urmaliya-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/divyanshurmaliya)
+[![Website](https://img.shields.io/badge/-0xdiv.me-FF5722?style=flat-square&logo=google-chrome&logoColor=white)](https://0xdiv.me)
+[![Aarambh Labs](https://img.shields.io/badge/-Aarambh_Labs-000000?style=flat-square&logo=vercel&logoColor=white)](https://aarambhlabs.tech)
+[![Telegram](https://img.shields.io/badge/-@divyanhsu_bot_bot-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/divyanhsu_bot_bot)
+
+📧 **urmaliyadiv04@gmail.com**
+📱 **+91 62323 22663**
+
+---
+
+### Recognition
+
+- **100+ MVPs shipped** for startups worldwide
+- **Agent economy pioneer** — x402 payments, multi-agent orchestration
+- **AI-native development** — Building with agents, not just for agents
+
+---
+
+<details>
+<summary>Random Facts</summary>
+
+- Run multiple AI agents concurrently (Tingu, Hunter, Scout, Scribe)
+- Indore coffee culture survivor
+- Hinglish content creator
+- "Zero bullshit" is a core value, not just a tagline
+- Believe AI agents are the future of work
+
+</details>
+root@srv1311316:~# cat clawd/GITHUB_README.md 
+# Hi, I'm Divyansh
+
+**Indore, India** | **Founder @ [Aarambh Labs](https://aarambhlabs.tech)** | **AI-Native Builder**
+
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Tailwind](https://img.shields.io/badge/-Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Postgres](https://img.shields.io/badge/-Postgres-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Solidity](https://img.shields.io/badge/-Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
+![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![Move](https://img.shields.io/badge/-Move-000000?style=flat-square)
+
+> "14 DAYS / FULL OWNERSHIP / ZERO BULLSHIT"
+
+Shipping production-ready MVPs, AI agents, and Web3 dApps at ludicrous speed. 100+ MVPs delivered. Currently building the agent economy.
+
+**[aarambhlabs.tech](https://aarambhlabs.tech)** | **[0xdiv.me](https://0xdiv.me)** | **[supermission.fun](https://supermission.fun)**
+
+---
+
+## Current Projects
+
+### [Supermission](https://supermission.fun)
+Agent economy infrastructure. X402 payments, ERC-8004 identity, on-chain settlements.
+- 119+ registered agents
+- Multi-agent task orchestration with crypto-native payments
+- Private repo: x402agent_base
+
+### [onchain-portfolio-div](https://github.com/urmaliyadivyanshu31/onchain-portfolio-div)
+On-chain portfolio built with TypeScript.
+
+### [Provn-New-WizzCamp](https://github.com/urmaliyadivyanshu31/Provn-New-WizzCamp)
+TypeScript project for WizzCamp.
+
+### [BetVerse](https://github.com/urmaliyadivyanshu31/BetVerse)
+Betting platform built with TypeScript.
+
+---
+
+## Web3 / DeFi Projects
+
+- **[DIV-SWAP](https://github.com/urmaliyadivyanshu31/DIV-SWAP)** — DEX on SUI (Move)
+- **[buck-terminal](https://github.com/urmaliyadivyanshu31/buck-terminal)** — Buck Terminal on SEI Network (TypeScript)
+- **[Wizz](https://github.com/urmaliyadivyanshu31/Wizz)** — Fully On-Chain SocialFi Platform (JavaScript)
+- **[SUI-Foundry](https://github.com/urmaliyadivyanshu31/SUI-Foundry)** — TypeScript tooling for SUI
+- **[MON_DROP](https://github.com/urmaliyadivyanshu31/MON_DROP)** — TypeScript drop mechanism
+- **[GearFi](https://github.com/urmaliyadivyanshu31/GearFi)** — NFT financing marketplace. P2P loans for NFTs like car loans
+- **[Decentralised-Betting-Game-](https://github.com/urmaliyadivyanshu31/Decentralised-Betting-Game-)** — Solidity betting game
+- **[Crosschain-app](https://github.com/urmaliyadivyanshu31/Crosschain-app)** — Cross-chain Solidity application
+- **[Solana_Token](https://github.com/urmaliyadivyanshu31/Solana_Token)** — SPL token implementation (JavaScript)
+- **[Solana_Airdrop_Tutorial](https://github.com/urmaliyadivyanshu31/Solana_Airdrop_Tutorial)** — Solana contract tutorial
+- **[nft_masterclass](https://github.com/urmaliyadivyanshu31/nft_masterclass)** — NFT deployment sample
+- **[NFT-Collection](https://github.com/urmaliyadivyanshu31/NFT-Collection)** — NFT collection project
+- **[Web3--Crowdfunding](https://github.com/urmaliyadivyanshu31/Web3--Crowdfunding)** — Web3 crowdfunding platform
+
+---
+
+## Full-Stack Applications
+
+- **[Rent-It-Up](https://github.com/urmaliyadivyanshu31/Rent-It-Up)** — Rent anything platform (TypeScript)
+- **[Sociopedia-New](https://github.com/urmaliyadivyanshu31/Sociopedia-New)** — Social media platform (JavaScript)
+- **[social-media-website](https://github.com/urmaliyadivyanshu31/social-media-website)** — MERN stack + Material UI
+- **[Mystic_Final](https://github.com/urmaliyadivyanshu31/Mystic_Final)** — Mystic project (JavaScript)
+- **[Web3_Forum](https://github.com/urmaliyadivyanshu31/Web3_Forum)** — Web3 forum (TypeScript)
+- **[Modern-Bank-App](https://github.com/urmaliyadivyanshu31/Modern-Bank-App)** — Modern banking UI (JavaScript)
+- **[Faucet-Dapp-Personal](https://github.com/urmaliyadivyanshu31/Faucet-Dapp-Personal)** — Personal faucet dapp
+
+---
+
+## Developer Tools / Libraries
+
+- **[Divyanshu-s-Packager](https://github.com/urmaliyadivyanshu31/Divyanshu-s-Packager)** — NPM package (TypeScript)
+- **[Connect-Kit](https://github.com/urmaliyadivyanshu31/Connect-Kit)** — Wallet connection kit (TypeScript)
+- **[Wallet-v2](https://github.com/urmaliyadivyanshu31/Wallet-v2)** — WalletConnect integration
+- **[Signature_Hash_Signature](https://github.com/urmaliyadivyanshu31/Signature_Hash_Signature)** — Signature hash generator
+
+---
+
+## Learning / Tutorials
+
+- **[fullstack-zkevm-polygon](https://github.com/urmaliyadivyanshu31/fullstack-zkevm-polygon)** — ZK-EVM exploration
+- **[Avalanche_Intermediate](https://github.com/urmaliyadivyanshu31/Avalanche_Intermediate)** — Avalanche tutorials
+- **[Eth_Intermediate](https://github.com/urmaliyadivyanshu31/Eth_Intermediate)** — Ethereum intermediate concepts
+- **[Metacrafters-Assignment](https://github.com/urmaliyadivyanshu31/Metacrafters-Assignment)** — Metacrafters coursework
+- **[ReactBlock](https://github.com/urmaliyadivyanshu31/ReactBlock)** — React learning project
+- **[Upgradable-Smart-Contracts](https://github.com/urmaliyadivyanshu31/Upgradable-Smart-Contracts)** — Proxy patterns
+- **[practise_challenge](https://github.com/urmaliyadivyanshu31/practise_challenge)** — Solidity challenges
+
+---
+
+## Tech Stack
+
+| Layer | Stack |
+|-------|-------|
+| Frontend | Next.js 15, React, Tailwind CSS, Framer Motion |
+| Backend | Node.js, Postgres, Redis, Vercel |
+| AI/ML | GPT-4, Claude, LangChain, Pinecone, FAISS |
+| Web3 | Rust, Solidity, Move, Base, Ethereum, SUI, SEI, Solana |
+| Design | Figma, Framer, After Effects, Rive |
+| DevOps | PM2, Hostinger VPS, GitHub Actions |
 
 ---
 
 ## GitHub Stats
 
-<div align="center">
-<table>
-<tr>
-<td><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=urmaliyadivyanshu31&show_icons=true&locale=en&layout=compact&theme=dark&hide_border=true" alt="urmaliyadivyanshu31" /></td>
-<td><img align="center" src="https://github-readme-stats.vercel.app/api?username=urmaliyadivyanshu31&show_icons=true&locale=en&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="urmaliyadivyanshu31" /></td>
-</tr>
-</table>
+![GitHub Contribution Graph](https://ghchart.rshah.org/urmaliyadivyanshu31)
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=urmaliyadivyanshu31&theme=dark&hide_border=true" alt="urmaliyadivyanshu31" />
-</div>
+**Public Repos:** 79+ | **Followers:** 33 | **Since:** 2021
 
 ---
 
-<div align="center">
+## Connect
 
-![Profile Views](https://komarev.com/ghpvc/?username=urmaliyadivyanshu31&style=for-the-badge&color=blueviolet)
+[![Twitter](https://img.shields.io/badge/-@Divyanshueth-000000?style=flat-square&logo=x&logoColor=white)](https://twitter.com/Divyanshueth)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/divyanshurmaliya)
+[![Website](https://img.shields.io/badge/-0xdiv.me-FF5722?style=flat-square&logo=google-chrome&logoColor=white)](https://0xdiv.me)
+[![Aarambh Labs](https://img.shields.io/badge/-Aarambh_Labs-000000?style=flat-square&logo=vercel&logoColor=white)](https://aarambhlabs.tech)
+[![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/divyanhsu_bot_bot)
 
-**Building infrastructure for Web3's next billion users**
+**Email:** urmaliyadiv04@gmail.com  
+**Phone:** +91 62323 22663  
+**Location:** Indore, India (IST)
 
-Available for Web3 collaborations, strategic partnerships, and ecosystem development opportunities.
+---
 
-</div>
+## Philosophy
+
+Ship beats perfect. Code ownership beats vendor lock-in. 14 days beats 3 months.
+
+Building with AI agents as first-class team members. Currently exploring how agentic engineering changes everything about software development.
