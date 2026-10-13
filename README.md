@@ -16,8 +16,7 @@ Position, an iOS app for stocks, crypto and cash<br>
 [BackersStage](https://www.backersstage.com), demo days connecting web3 and AI founders with investors<br>
 [Provn](https://www.provn.fun), short videos with onchain IP, built for a client<br>
 [PureScan](https://google-scanner-cloud.vercel.app), scores food labels against EU and FDA rules<br>
-[dotcom.systems](https://dotcom.systems), a game where you burn a startup's token to keep it alive<br>
-[Beehad](https://beehad-website.vercel.app), a media agency's website
+[dotcom.systems](https://dotcom.systems), a game where you burn a startup's token to keep it alive
 
 <samp>Experiments</samp><br>
 [AgenticX402](https://agenticx402.fun), a launchpad for AI agents with x402 payments<br>
