@@ -20,7 +20,6 @@ Position, an iOS app for stocks, crypto and cash<br>
 
 <samp>Experiments</samp><br>
 [4not2](https://agentic-asi-new.vercel.app), a cross-chain marketplace for AI agents<br>
-[x402 Space](https://www.x402space.fun), micropayments for games on Base<br>
 [MEME Circle](https://memecircle.vercel.app), meme token launches on Citrea<br>
 [Monad Checker](https://mon-drop.vercel.app), Monad testnet stats for any wallet
 
