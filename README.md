@@ -19,7 +19,6 @@ Position, an iOS app for stocks, crypto and cash<br>
 [dotcom.systems](https://dotcom.systems), a game where you burn a startup's token to keep it alive
 
 <samp>Experiments</samp><br>
-[AgenticX402](https://agenticx402.fun), a launchpad for AI agents with x402 payments<br>
 [4not2](https://agentic-asi-new.vercel.app), a cross-chain marketplace for AI agents<br>
 [x402 Space](https://www.x402space.fun), micropayments for games on Base<br>
 [MEME Circle](https://memecircle.vercel.app), meme token launches on Citrea<br>
