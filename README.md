@@ -4,7 +4,7 @@ Founder and product engineer. I build consumer apps end to end, from the first u
 
 <samp>Now</samp><br>
 Position, an iOS app for stocks, crypto and cash<br>
-[Supermission](https://supermission.fun), an AI trading terminal
+[Supermission](https://supermission.fun), an AI trading terminal with $400k+ in volume
 
 <samp>Built</samp><br>
 [Aarambh Labs](https://aarambhlabs.tech), a product studio for founders<br>
