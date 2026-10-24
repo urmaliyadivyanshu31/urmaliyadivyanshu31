@@ -4,7 +4,10 @@ Founder and product engineer. I build consumer apps end to end, from the first u
 
 <samp>Now</samp><br>
 Position, an iOS app for stocks, crypto and cash<br>
-[Supermission](https://supermission.fun), an AI trading terminal with $400k+ in volume
+[Supermission](https://supermission.fun), an AI trading terminal with $400k+ in volume<br>
+[dotcom.systems](https://dotcom.systems), buy stock tokens any hour, any day, on a 1999 desktop<br>
+[Firangi Tota](https://firangitota.com), a browser game about spotting forged messages in India's freedom struggle<br>
+[1000xdegen](https://1000xdegen.com), farm $PAPER on Papertrade with a pair that closes itself
 
 <samp>Built</samp><br>
 [Aarambh Labs](https://aarambhlabs.tech), a product studio for founders<br>
@@ -15,8 +18,7 @@ Position, an iOS app for stocks, crypto and cash<br>
 <samp>More projects</samp><br>
 [BackersStage](https://www.backersstage.com), demo days connecting web3 and AI founders with investors<br>
 [Provn](https://www.provn.fun), short videos with onchain IP, built for a client<br>
-[PureScan](https://google-scanner-cloud.vercel.app), scores food labels against EU and FDA rules<br>
-[dotcom.systems](https://dotcom.systems), a game where you burn a startup's token to keep it alive
+[PureScan](https://google-scanner-cloud.vercel.app), scores food labels against EU and FDA rules
 
 <samp>Experiments</samp><br>
 [MEME Circle](https://memecircle.vercel.app), meme token launches on Citrea<br>
