@@ -25,4 +25,4 @@ Position, an iOS app for stocks, crypto and cash<br>
 <samp>Community</samp><br>
 [Bhopal DAO](https://x.com/Bhopal_DAO), 5,000+ builders in central India
 
-[0xdiv.me](https://www.0xdiv.me) &nbsp; [Writing](https://www.0xdiv.me/blogs) &nbsp; [X](https://x.com/Divyanshueth) &nbsp; [LinkedIn](https://www.linkedin.com/in/divyanshu-urmaliya-b542ba21b/) &nbsp; [Email](mailto:urmaliyadiv04@gmail.com)
+[0xdiv.me](https://www.0xdiv.me) &nbsp; [Writing](https://www.0xdiv.me/blogs) &nbsp; [X](https://x.com/trydiv) &nbsp; [LinkedIn](https://www.linkedin.com/in/divyanshu-urmaliya-b542ba21b/) &nbsp; [Email](mailto:urmaliyadiv04@gmail.com)
